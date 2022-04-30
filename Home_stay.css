@@ -94,11 +94,11 @@
     margin-top: 7rem;
 }
 
-.image1{
+.image1>img{
     position: absolute;
     height: 600px;
     width: 600px;
-    background-image: url('E:\Web\Home stay\img\fire camp.jpg');
+    /* background-i mage: url("E:\Web\Home stay\img\fire camp.jpg"); */
     border-radius: 50%;
     margin-left: 4rem;
     z-index: 9;
@@ -106,30 +106,30 @@
     border: 3px solid #004B36D9;
 }
 
-.image2{
+.image2>img{
     position: absolute;
     height: 450px;
     width: 450px;
-    background-image: url('E:\Web\Home stay\img\WhatsApp Image 2022-01-19 at 9.06.51 AM.jpeg');
+    /* background-image: url("E:\Web\Home stay\img\WhatsApp Image 2022-01-19 at 9.06.51 AM.jpeg"); */
     border-radius: 50%;
     margin-top: 17rem;
     margin-left: 23rem;
     z-index: 999;
     background-size: cover;
-    border: 5px solid #004B36D9;
+    border: 3px solid #004B36D9;
 }
 
-.image3{
+.image3>img{
     position: absolute;
     height: 300px;
     width: 300px;
-    background-image: url('E:\Web\Home stay\img\WhatsApp Image 2022-01-19 at 9.06.55 AM (2).jpeg');
+    /* background-image: url("E:\Web\Home stay\img\WhatsApp Image 2022-01-19 at 9.06.55 AM (2).jpeg"); */
     border-radius: 50%;
     margin-top: 28rem;
     margin-left: 8rem;
     z-index: 9999;
     background-size: cover;
-    border: 5px solid #004B36D9;
+    border: 3px solid #004B36D9;
 }
 
 .video{
